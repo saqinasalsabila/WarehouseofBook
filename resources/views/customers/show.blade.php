@@ -1,7 +1,5 @@
 @extends('layouts.app')
   
-@section('title', 'Home Customer / Customer Detail')
-  
 @section('contents')
     <h1 class="mb-0">Customer Detail</h1>
     <hr />
