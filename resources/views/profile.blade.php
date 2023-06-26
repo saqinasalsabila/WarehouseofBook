@@ -1,6 +1,6 @@
 @extends('layouts.app')
   
-@section('title', 'Profile')
+@section('title', 'Admin Profile')
   
 @section('contents')
     <h1 class="mb-0">Profile Settings</h1>
