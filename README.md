@@ -9,22 +9,22 @@
 4. Verizca Maudia Putri         -   [215150207111088]
 
 ## Tugas Akhir Pemrograman Web
-Nama Website : Warehouse Of Books
+Nama Website : Warehouse of Books
 
-Warehouse Of Books adalah sebuah website yang dirancang khusus untuk membantu admin dalam mengatur dan mengelola ketersediaan buku di sebuah perpustakaan. Website ini memberikan kemudahan bagi admin untuk mengecek ketersediaan buku, melihat data order buku dari customer. Website ini dirancang untuk satu peran utama, yaitu Admin, dengan fitur-fitur yang disesuaikan sesuai peran.
+Warehouse of Books adalah sebuah website yang dirancang khusus untuk membantu admin dalam mengatur dan mengelola ketersediaan buku di sebuah toko buku. Website ini memberikan kemudahan bagi admin untuk mengecek ketersediaan buku, melihat data customer yang merupakan member, dan riwayat order buku dari customer. Website ini dirancang untuk satu peran utama, yaitu Admin, dengan fitur-fitur yang disesuaikan sesuai peran.
 
-### 1. Role Admin:
-![dashboard](...........)
+### Role Admin:
+![dashboard](readme-img/wob-dashboard.png)
 
-Sebagai admin di Warehouse Of Books, Anda memiliki akses penuh untuk mengelola ketersediaan buku. Berikut adalah fitur-fitur yang tersedia untuk Anda:
+Sebagai admin di Warehouse of Books, Pengguna memiliki akses penuh untuk mengelola ketersediaan buku. Berikut adalah fitur-fitur yang tersedia untuk Pengguna:
 - Register : Fitur Register akan membutuhkan nama, email, dan password agar bisa menjadi admin.
 - Login: Fitur Login pada admin memungkinkan admin untuk langsung tertuju ke halaman dashboard dengan menu Dashboard, Products, Order, Customer, dan Admin Profile.
-- Manajemen Tabel Customer : Anda dapat melakukan operasi CRUD (Create, Read, Update, Delete) terhadap data customer. Anda dapat menambah customer, melihat daftar customer, mengubah informasi customer, dan menghapus data customer jika itu diperlukan.
-- Manajemen Tabel Product : Anda dapat melakukan operasi CRUD (Create, Read, Update, Delete) terhadap data buku. Anda dapat menambahkan buku, melihat daftar buku, mengubah informasi buku, dan menghapus data buku jika itu diperlukan.
-- Manajemen Tabel Order : Anda dapat melihat semua order dari customer.
-- Manajemen Tabel Order Detail : Anda dapat melihat order dari setiap customer secara detail.
+- Manajemen Tabel Customer : Pengguna dapat melakukan operasi CRUD (Create, Read, Update, Delete) terhadap data customer. Pengguna dapat menambah customer, melihat daftar customer, mengubah informasi customer, dan menghapus data customer jika itu diperlukan.
+- Manajemen Tabel Product : Pengguna dapat melakukan operasi CRUD (Create, Read, Update, Delete) terhadap data buku. Pengguna dapat menambahkan buku, melihat daftar buku, mengubah informasi buku, dan menghapus data buku jika itu diperlukan.
+- Manajemen Tabel Order : Pengguna dapat melihat semua order dari customer.
+- Manajemen Tabel Order Detail : Pengguna dapat melihat order dari setiap customer secara detail.
 
-Warehouse Of Books membantu mempercepat dan mengoptimalkan proses pengecekan ketersediaan buku. Dengan fitur-fitur yang disesuaikan untuk admin, website ini memudahkan koordinasi antara perpustakaan dan admin untuk memastikan pengalaman yang baik dalam melihat berbagai data.
+Warehouse of Books membantu mempercepat dan mengoptimalkan proses pengecekan ketersediaan buku. Dengan fitur-fitur yang disesuaikan untuk admin, website ini memudahkan koordinasi antara toko buku dan admin untuk memastikan pengalaman yang baik dalam melihat berbagai data.
 
 ## Lampiran Screenshot
 1. Register
@@ -34,15 +34,17 @@ Warehouse Of Books membantu mempercepat dan mengoptimalkan proses pengecekan ket
 ![.login](readme-img/wob-login.png)
 
 3. Produk/List Buku
-![.product]()
-
-4. Tabel Pelanggan/Member
-![.customer]()
-
-5. Tabel Riwayat Order
-![.order]()
-
-6. Setting Profile Admin
+![.productlist]()
+![.productadd]()
+![.productedit]()
+5. Tabel Pelanggan/Member
+![.customerlist]()
+![.customerdetail]()
+![.customeredit]()
+7. Tabel Riwayat Order
+![.orderlist]()
+![.orderdetail]()
+9. Setting Profile Admin
 ![.profile]()
 
 ## Installation
