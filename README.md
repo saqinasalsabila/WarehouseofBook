@@ -35,18 +35,21 @@ Warehouse of Books membantu mempercepat dan mengoptimalkan proses pengecekan ket
 ![.login](readme-img/wob-login.png)
 
 3. Produk/List Buku
-![.productlist]()
-![.productadd]()
-![.productedit]()
+![Product_List](https://github.com/saqinasalsabila/WarehouseofBook/assets/103765178/a6077add-15a7-4e5e-9da2-39a98cfbfa7f)
+![Add_Product](https://github.com/saqinasalsabila/WarehouseofBook/assets/103765178/ab1d6a85-52aa-473d-9998-9cd2d0f9baae)
+![Edit_Product](https://github.com/saqinasalsabila/WarehouseofBook/assets/103765178/6e15060f-7f16-42ad-8a40-03de905c3123)
+
 5. Tabel Pelanggan/Member
-![.customerlist]()
-![.customerdetail]()
-![.customeredit]()
+![Customer_Detail](https://github.com/saqinasalsabila/WarehouseofBook/assets/103765178/1bd8f112-f010-4b6f-beee-45ce1d81095f)
+![Customer_List](https://github.com/saqinasalsabila/WarehouseofBook/assets/103765178/c8a08774-c6c9-419d-a413-b3e7a4668f6e)
+![Edit Customer](https://github.com/saqinasalsabila/WarehouseofBook/assets/103765178/6e38b42b-1fc1-4a56-8e03-14aabe8e4c32)
+
 7. Tabel Riwayat Order
-![.orderlist]()
-![.orderdetail]()
+![Order_Detail](https://github.com/saqinasalsabila/WarehouseofBook/assets/103765178/3b0605df-8503-4233-b243-ae3fad33416b)
+![Order_List](https://github.com/saqinasalsabila/WarehouseofBook/assets/103765178/3cf3f9fb-3793-4c9f-9319-a418bf7f6843)
+
 9. Setting Profile Admin
-![.profile]()
+![Profile](https://github.com/saqinasalsabila/WarehouseofBook/assets/103765178/ed91cd53-496f-4b44-94ab-4b61ae84b62c)
 
 ## Installation
 - `git clone <URL HTTPS Github>`
