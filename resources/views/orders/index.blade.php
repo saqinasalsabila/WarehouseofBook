@@ -4,7 +4,6 @@
         <title>WoB - Order List</title>
     </head>
 </html>
-@section('title', 'Home Order')
 
 @section('contents')
     <div class="d-flex align-items-center justify-content-between">
