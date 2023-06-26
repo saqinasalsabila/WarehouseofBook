@@ -9,7 +9,11 @@
 @section('contents')
     <div class="d-flex align-items-end justify-content-between">
         <h1 class="mb-0">Order Detail</h1>
-        <h6 class="mb-0">Order ID : {{$order[1]->order_id}}</h6>
+        <h6 class="mb-0">Order ID : 
+            @if($order->count() > 0) {{$order[1]->order_id}}
+            @else -
+            @endif
+        </h6>
     </div>
     <hr />
     @if(Session::has('success'))
