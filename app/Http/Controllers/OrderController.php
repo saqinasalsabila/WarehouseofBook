@@ -25,10 +25,10 @@ class OrderController extends Controller
 
     public function destroy(string $id)
     {
+        $order_detail = DB::table('order_details')->where('order_id', $id);
+        $order_detail->delete();
         $order = Order::findOrFail($id);
-
         $order->delete();
-  
         return redirect()->route('orders')->with('success', 'Order deleted successfully');
     }
 }
