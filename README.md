@@ -36,7 +36,7 @@ Warehouse Of Books membantu mempercepat dan mengoptimalkan proses pengecekan ket
 
 ## Installation
 - `git clone <URL HTTPS Github>`
-- `cd .../.......`
+- `cd .../WarehouseofBook-main`
 - `composer install`
 - `cp .env.example .env`
 - Ubah ke `.env`
