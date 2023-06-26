@@ -4,7 +4,6 @@
         <title>WoB - Add Product</title>
     </head>
 </html>
-@section('title', 'Home Product / Add Product')
   
 @section('contents')
     <h1 class="mb-0">Add Product</h1>
