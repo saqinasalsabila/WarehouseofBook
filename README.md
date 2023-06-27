@@ -126,4 +126,3 @@ Warehouse of Books membantu mempercepat dan mengoptimalkan proses pengecekan ket
 - Buat database `laravel` di PHP MyAdmin
 - `php artisan migrate`
 - `php artisan db:seed`
- 365557fcd17cda8b4aec41a3cae6d0ea0956d569
