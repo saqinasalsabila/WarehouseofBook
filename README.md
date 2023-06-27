@@ -55,8 +55,7 @@ Warehouse of Books membantu mempercepat dan mengoptimalkan proses pengecekan ket
 - `git clone <URL HTTPS Github>`
 - `cd .../WarehouseofBook-main`
 - `composer install`
-- `cp .env.example .env`
-- Ubah ke `.env`
+- ubah file `env.txt` menjadi file `.env`
 - `php artisan key:generate`
 - Buat database `laravel` di PHP MyAdmin
 - `php artisan migrate`
